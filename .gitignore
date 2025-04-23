@@ -1,0 +1,5 @@
+runs/
+*.gds
+*.lef
+*.log
+__pycache__/
