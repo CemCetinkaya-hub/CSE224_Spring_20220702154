@@ -1,5 +1,0 @@
-{
- "DESIGN_NAME": "twos_comp_proj",
-  "VERILOG_FILES": ["designs/twos_comp_proj/src/twos_comp_proj.v"],
-  "FP_CORE_UTIL": 30
-}
